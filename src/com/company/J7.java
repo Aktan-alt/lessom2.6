@@ -1,6 +1,6 @@
 package com.company;
 
-public class J7<T extends Number> implements Playable {
+public class J7<T extends Number> implements Printable {
     private T number1;
     private String mk;
 
